@@ -87,6 +87,9 @@ export default defineConfig({
   rewrites: {
     'md': '1/md',  // 可以在这重定向
   },
+  vite: {
+    assetsInclude: ['**/*.JPG', '**/*.jpg', '**/*.xml']
+  },
   cleanUrls: true,
   markdown: {
     // math: true   // 数学公式，需要 npm add -D markdown-it-mathjax3
