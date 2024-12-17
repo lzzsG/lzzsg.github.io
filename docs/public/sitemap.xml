@@ -1,0 +1,1062 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.lzzs.fun/</loc>
+  <lastmod>2024-12-17T14:39:57+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/VitePress-template/</loc>
+  <lastmod>2024-12-11T13:14:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/VitePress-template/markdown/md</loc>
+  <lastmod>2024-12-11T13:14:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/VitePress-template/api-examples</loc>
+  <lastmod>2024-12-11T13:14:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CSE228A-notebook/</loc>
+  <lastmod>2024-12-11T13:15:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/DDCA/</loc>
+  <lastmod>2024-10-23T13:19:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/HDLbits-Verilog-Notebook/</loc>
+  <lastmod>2024-10-22T14:13:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/6.S081-notebook/</loc>
+  <lastmod>2024-09-30T00:49:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/MIT-digital-systems/</loc>
+  <lastmod>2024-09-30T00:51:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/EECS151-notebook/</loc>
+  <lastmod>2024-09-05T07:59:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS152-notebook/</loc>
+  <lastmod>2024-09-30T00:52:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/VitePress-template/markdown/markdown-examples</loc>
+  <lastmod>2024-12-11T13:14:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/directory/</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/ch1</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L02</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L03</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L04</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L05</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L06</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L07</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L08</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L09</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L10</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L11</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L12</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L13</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L14</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L15</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L16</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L17</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L18</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L19</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L20</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L21</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L22</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L23</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L24</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L25</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L26</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L27</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L28</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L29</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L30</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L31</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L32</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L33</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L34</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L35</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L36</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L37</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L38</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L39</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/L40</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/about/</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CSE228A-notebook/L01-Course-Introduction</loc>
+  <lastmod>2024-12-11T13:15:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CSE228A-notebook/L02-Hello-Chisel</loc>
+  <lastmod>2024-12-11T13:15:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CSE228A-notebook/L03-Combinational-Logic</loc>
+  <lastmod>2024-12-11T13:15:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CSE228A-notebook/L04-Sequential-Circuits</loc>
+  <lastmod>2024-12-11T13:15:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CSE228A-notebook/markdown/md1</loc>
+  <lastmod>2024-12-11T13:15:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CSE228A-notebook/markdown/md2</loc>
+  <lastmod>2024-12-11T13:15:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/DDCA/ch1</loc>
+  <lastmod>2024-10-23T13:19:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/DDCA/ch2</loc>
+  <lastmod>2024-10-23T13:19:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/DDCA/ch3</loc>
+  <lastmod>2024-10-23T13:19:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/DDCA/ch4</loc>
+  <lastmod>2024-10-23T13:19:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/DDCA/ch4/Verilog</loc>
+  <lastmod>2024-10-23T13:19:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/DDCA/ch5</loc>
+  <lastmod>2024-10-23T13:19:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/DDCA/about</loc>
+  <lastmod>2024-10-23T13:19:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/HDLbits-Verilog-Notebook/GettingStarted</loc>
+  <lastmod>2024-10-22T14:13:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/HDLbits-Verilog-Notebook/VerilogLanguage/</loc>
+  <lastmod>2024-10-22T14:13:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/HDLbits-Verilog-Notebook/VerilogLanguage/Basics</loc>
+  <lastmod>2024-10-22T14:13:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/HDLbits-Verilog-Notebook/VerilogLanguage/Vectors</loc>
+  <lastmod>2024-10-22T14:13:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/HDLbits-Verilog-Notebook/VerilogLanguage/Modules</loc>
+  <lastmod>2024-10-22T14:13:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/HDLbits-Verilog-Notebook/VerilogLanguage/Procedures</loc>
+  <lastmod>2024-10-22T14:13:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/HDLbits-Verilog-Notebook/VerilogLanguage/More</loc>
+  <lastmod>2024-10-22T14:13:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/HDLbits-Verilog-Notebook/about/</loc>
+  <lastmod>2024-10-22T14:13:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/6.S081-notebook/L01/</loc>
+  <lastmod>2024-09-30T00:49:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/6.S081-notebook/L02</loc>
+  <lastmod>2024-09-30T00:49:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/6.S081-notebook/L03/</loc>
+  <lastmod>2024-09-30T00:49:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/6.S081-notebook/L04/</loc>
+  <lastmod>2024-09-30T00:49:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/6.S081-notebook/L05</loc>
+  <lastmod>2024-09-30T00:49:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/6.S081-notebook/L06</loc>
+  <lastmod>2024-09-30T00:49:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/6.S081-notebook/L07</loc>
+  <lastmod>2024-09-30T00:49:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/6.S081-notebook/L08</loc>
+  <lastmod>2024-09-30T00:49:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/6.S081-notebook/L09</loc>
+  <lastmod>2024-09-30T00:49:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/6.S081-notebook/L10</loc>
+  <lastmod>2024-09-30T00:49:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/6.S081-notebook/L11</loc>
+  <lastmod>2024-09-30T00:49:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/6.S081-notebook/L12</loc>
+  <lastmod>2024-09-30T00:49:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/6.S081-notebook/L13</loc>
+  <lastmod>2024-09-30T00:49:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/6.S081-notebook/L14</loc>
+  <lastmod>2024-09-30T00:49:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/6.S081-notebook/L15</loc>
+  <lastmod>2024-09-30T00:49:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/6.S081-notebook/L16</loc>
+  <lastmod>2024-09-30T00:49:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/6.S081-notebook/L17</loc>
+  <lastmod>2024-09-30T00:49:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/6.S081-notebook/L18</loc>
+  <lastmod>2024-09-30T00:49:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/6.S081-notebook/L19</loc>
+  <lastmod>2024-09-30T00:49:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/6.S081-notebook/about/</loc>
+  <lastmod>2024-09-30T00:49:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/MIT-digital-systems/6.004/</loc>
+  <lastmod>2024-09-30T00:51:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/MIT-digital-systems/6.004/L01</loc>
+  <lastmod>2024-09-30T00:51:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/MIT-digital-systems/6.004/L02</loc>
+  <lastmod>2024-09-30T00:51:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/MIT-digital-systems/6.004/L03</loc>
+  <lastmod>2024-09-30T00:51:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/MIT-digital-systems/6.004/L04</loc>
+  <lastmod>2024-09-30T00:51:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/MIT-digital-systems/6.004/L05</loc>
+  <lastmod>2024-09-30T00:51:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/MIT-digital-systems/6.004/L06</loc>
+  <lastmod>2024-09-30T00:51:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/MIT-digital-systems/6.004/L07</loc>
+  <lastmod>2024-09-30T00:51:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/MIT-digital-systems/6.004/L08</loc>
+  <lastmod>2024-09-30T00:51:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/MIT-digital-systems/6.004/L09</loc>
+  <lastmod>2024-09-30T00:51:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/MIT-digital-systems/6.004/L10</loc>
+  <lastmod>2024-09-30T00:51:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/MIT-digital-systems/6.004/L11</loc>
+  <lastmod>2024-09-30T00:51:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/MIT-digital-systems/6.004/L12</loc>
+  <lastmod>2024-09-30T00:51:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/MIT-digital-systems/6.004/L13</loc>
+  <lastmod>2024-09-30T00:51:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/MIT-digital-systems/6.004/L14</loc>
+  <lastmod>2024-09-30T00:51:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/MIT-digital-systems/6.175/</loc>
+  <lastmod>2024-09-30T00:51:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/MIT-digital-systems/6.175/L01</loc>
+  <lastmod>2024-09-30T00:51:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/MIT-digital-systems/6.175/L02</loc>
+  <lastmod>2024-09-30T00:51:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/MIT-digital-systems/about/</loc>
+  <lastmod>2024-09-30T00:51:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/0-Introduction.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/Read/read-before.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/Read/An-Introduction-to-RISC-V-Boot-Flow.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/Read/RISC-V-SBI-and-the-full-boot-process.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/Read/Bare-metal-programming-with-RISC-V-guide.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/Read/RISC-V-Privileged-Architecture.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/Intro/Kernel-application-interface.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/Intro/helloWorld.rs.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/GDB/GDB.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/GDB/GDB-install.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/GDB/GDB-use.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/GDB/riscv64-unknown-elf-gdb-and-qemu.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/GDB/GDB-use-rust-gdb.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/GDB/riscv64-unknown-elf-gdb-and-qemu-Rust.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/Makefile/Makefile.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/Makefile/Start-Makefile.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/Makefile/Makefile-basic-example.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/Makefile/RISC-V-GDB-QEMU-C.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/Makefile/RISC-V-GDB-QEMU-Rust.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/ch2-hands-on-bare-metal-program/L02.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/ch1-operating-system-overview/lab0.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/ch2-hands-on-bare-metal-program/ch2-LibOS.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/ch2-hands-on-bare-metal-program/lab1.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/ch3-isolation-batch-processing/L01.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/ch3-isolation-batch-processing/L02.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/ch3-isolation-batch-processing/L03.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/ch3-isolation-batch-processing/lab2.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/ch4-multiprogramming-time-sharing/L01.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/ch4-multiprogramming-time-sharing/L02.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/ch4-multiprogramming-time-sharing/lab3.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/ch5-physical-memory-management/L01.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/ch5-physical-memory-management/L02.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/rCore-notebook/ch5-physical-memory-management/L03.html</loc>
+  <lastmod>2024-10-06T04:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L01</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L02</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L03</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L04</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L05</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L06</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L07</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L08</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L09</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L10</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L11</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L12</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L13</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L14</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L15</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L16</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L17</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L18</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L19</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L20</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L21</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L22</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L23</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L24</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L25</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L26</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L27</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L28</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/L29</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/old</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/Lec01/</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/Lec02/</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/Lec03/</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/Lec04/</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/about/</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/EECS151-notebook/L01/</loc>
+  <lastmod>2024-09-05T07:59:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/EECS151-notebook/L02/</loc>
+  <lastmod>2024-09-05T07:59:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/EECS151-notebook/L03/</loc>
+  <lastmod>2024-09-05T07:59:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/EECS151-notebook/L04/</loc>
+  <lastmod>2024-09-05T07:59:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/EECS151-notebook/L05</loc>
+  <lastmod>2024-09-05T07:59:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/EECS151-notebook/251B/L01/</loc>
+  <lastmod>2024-09-05T07:59:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/EECS151-notebook/about/</loc>
+  <lastmod>2024-09-05T07:59:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS152-notebook/01</loc>
+  <lastmod>2024-09-30T00:52:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS152-notebook/02</loc>
+  <lastmod>2024-09-30T00:52:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS152-notebook/03</loc>
+  <lastmod>2024-09-30T00:52:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS152-notebook/04</loc>
+  <lastmod>2024-09-30T00:52:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS152-notebook/05</loc>
+  <lastmod>2024-09-30T00:52:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS152-notebook/06</loc>
+  <lastmod>2024-09-30T00:52:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS152-notebook/07</loc>
+  <lastmod>2024-09-30T00:52:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS152-notebook/about/</loc>
+  <lastmod>2024-09-30T00:52:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61C-notebook/about/.</loc>
+  <lastmod>2024-12-17T06:38:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/DDCA/.</loc>
+  <lastmod>2024-10-23T13:19:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/HDLbits-Verilog-Notebook/about/.</loc>
+  <lastmod>2024-10-22T14:13:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/6.S081-notebook/about/.</loc>
+  <lastmod>2024-09-30T00:49:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/MIT-digital-systems/6.004/L05.html?highlight=fa</loc>
+  <lastmod>2024-09-30T00:51:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/MIT-digital-systems/6.004/L06.html</loc>
+  <lastmod>2024-09-30T00:51:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/MIT-digital-systems/about/.</loc>
+  <lastmod>2024-09-30T00:51:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS61A-notebook/about/.</loc>
+  <lastmod>2024-09-20T00:06:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/EECS151-notebook/about/.</loc>
+  <lastmod>2024-09-05T07:59:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.lzzs.fun/CS152-notebook/about/.</loc>
+  <lastmod>2024-09-30T00:52:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
