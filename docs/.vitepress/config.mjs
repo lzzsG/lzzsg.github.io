@@ -43,7 +43,7 @@ export default defineConfig({
 
         items: [
           { text: '首页', link: '/' },
-          { text: 'Markdown Examples1', link: '/markdown/markdown-examples' },
+          { text: 'Markdown Examples1', link: 'https://lzzs.fun' },
           { text: 'Markdown Examples2', link: '/markdown/md' },
           { text: 'Runtime API Examples', link: '/api-examples' },
         ]
