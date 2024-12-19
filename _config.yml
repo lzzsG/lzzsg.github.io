@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: Lzzs Blog # the main title
 
-tagline: By a delusional fake programmer # it will display as the subtitle
+tagline: Delusional Fake Programmer  Sharing his learning and ideas # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
  lzzs blog, a delusional fake programmer's blog, sharing his thoughts and experiences, including programming, life, and more.
@@ -28,17 +28,17 @@ url: "https://docs.lzzs.fun/lzzs-chirpy-blog"
 github:
   username: lzzsG # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+# twitter:
+#   username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Lzzs
-  email: example@domain.com # change to your email address
+  email: lzzs122@foxmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
+    # - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/lzzsG # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -88,7 +88,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: dark # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -109,7 +109,7 @@ toc: true
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
-  provider: # [disqus | utterances | giscus]
+  provider: giscus # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
@@ -119,7 +119,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
+    repo: lzzsG/lzzs-chirpy-blog # <gh-username>/<repo>
     repo_id:
     category:
     category_id:

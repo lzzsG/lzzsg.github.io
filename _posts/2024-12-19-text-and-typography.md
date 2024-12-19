@@ -2,7 +2,7 @@
 title: 文本与排版
 description: 文本、排版、数学公式、图表、流程图、图片、视频等示例。
 date: 2024-12-19 23:0 +0800
-categories: [博客, 演示]
+categories: [博客网站, 演示]
 tags: [排版]
 pin: true
 math: true
