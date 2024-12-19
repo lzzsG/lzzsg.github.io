@@ -217,3 +217,19 @@ Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecena
 
 [^footnote]: 脚注来源
 [^fn-nth-2]: 第二个脚注来源
+
+<script src="https://giscus.app/client.js"
+        data-repo="lzzsG/lzzs-chirpy-blog"
+        data-repo-id="R_kgDONe7miQ"
+        data-category="[在此输入分类名]"
+        data-category-id="[在此输入分类 ID]"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="noborder_gray"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>
