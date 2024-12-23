@@ -1,6 +1,6 @@
 ---
-title: 文本与排版
-description: 文本、排版、数学公式、图表、流程图、图片、视频等示例。
+title: 【博客网站】文本与排版
+description: 对本站内容中的文本、排版、数学公式、图表、流程图、图片、视频等内容的效果示例。
 date: 2024-12-19 23:0 +0800
 categories: [博客网站, 演示]
 tags: [排版]
@@ -217,19 +217,3 @@ Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecena
 
 [^footnote]: 脚注来源
 [^fn-nth-2]: 第二个脚注来源
-
-<script src="https://giscus.app/client.js"
-        data-repo="lzzsG/lzzs-chirpy-blog"
-        data-repo-id="R_kgDONe7miQ"
-        data-category="[在此输入分类名]"
-        data-category-id="[在此输入分类 ID]"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="noborder_gray"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        async>
-</script>
