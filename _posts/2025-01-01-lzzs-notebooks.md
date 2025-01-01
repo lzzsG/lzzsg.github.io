@@ -8,6 +8,8 @@ tags: [笔记]
 pin: true
 ---
 
+{% include notes.html %}
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -202,5 +204,6 @@ pin: true
       container.appendChild(card);
     });
   </script>
+  markdown
 </body>
 </html>
