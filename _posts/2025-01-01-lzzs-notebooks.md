@@ -10,11 +10,6 @@ pin: true
 
 {% include notes.html %}
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Course Cards</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -72,8 +67,7 @@ pin: true
     }
 
   </style>
-</head>
-<body>
+
   <div class="container" id="card-container"></div>
 
   <script>
@@ -205,5 +199,3 @@ pin: true
     });
   </script>
   markdown
-</body>
-</html>
