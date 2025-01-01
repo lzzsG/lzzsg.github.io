@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: Lzzs Blog # the main title
 
-tagline: Delusional Fake Programmer  Sharing his learning and ideas # it will display as the subtitle
+tagline: Delusional Fake Programmer # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
  lzzs blog, a delusional fake programmer's blog, sharing his thoughts and experiences, including programming, life, and more.
