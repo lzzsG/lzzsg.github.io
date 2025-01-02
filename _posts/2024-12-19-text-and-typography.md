@@ -4,7 +4,7 @@ description: 对本站内容中的文本、排版、数学公式、图表、流�
 date: 2024-12-19 23:0 +0800
 categories: [博客网站, 演示]
 tags: [排版]
-pin: true
+
 math: true
 mermaid: true
 image:
