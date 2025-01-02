@@ -213,6 +213,19 @@ Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecena
 
 {% include embed/youtube.html id='Balreaj8Yqs' %}
 
+- [HDLbits Verilog](https://lzzs.fun/HDLbits-Verilog-Notebook/)
+- [DDCA](https://lzzs.fun/DDCA/)
+- [CS 61A](https://lzzs.fun/CS61A-notebook/)
+- [CS 61C](https://lzzs.fun/CS61C-notebook/)
+- [MIT 6.S081](https://lzzs.fun/6.S081-notebook/)
+- [MIT 6.004](https://lzzs.fun/MIT-digital-systems/)
+
+- [CSE 228A](https://lzzs.fun/CSE228A-notebook/)
+- [Digital Design with Chisel](https://lzzs.fun/chisel-book-note/)
+
+- [EECS 151/251A](https://lzzs.fun/EECS151-notebook/)
+- [CS 152/252A](https://lzzs.fun/CS152-notebook/)
+
 ## 反向脚注
 
 [^footnote]: 脚注来源
